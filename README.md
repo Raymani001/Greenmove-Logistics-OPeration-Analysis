@@ -66,6 +66,16 @@ The analysis highlights several important operational patterns:
 5. The 44.62% on-time delivery rate indicates an opportunity to investigate factors affecting delivery timeliness.
 6. Fuel consumption is concentrated among a small group of high-usage drivers, providing an opportunity for fuel-efficiency monitoring and fleet optimization.
 
+## Visualizations
+
+<img width="1024" height="580" alt="overview" src="https://github.com/user-attachments/assets/f5c119b5-d00f-4699-8504-750f36a2773c" />
+
+<img width="1030" height="577" alt="truck_utilization" src="https://github.com/user-attachments/assets/b5dad12e-92ef-4b49-9d75-f19988517399" />
+
+<img width="1026" height="578" alt="incidents_analysis" src="https://github.com/user-attachments/assets/e94e2e73-b74f-4664-ac90-9275a6f01be0" />
+
+<img width="935" height="530" alt="kk4444" src="https://github.com/user-attachments/assets/a528255b-0636-43b2-9d89-0066adec63fd" />
+
  ## RECOMMENDATIONS 
 
 1. Improve On-Time Delivery Performance
